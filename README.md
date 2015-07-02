@@ -8,6 +8,10 @@ Use the following command in the repo directory to launch IPython and get the in
 
     ipython notebook --pylab=inline
 
+Remember to install the following packages:
+
+    numpy matplotlib
+
 Links to view notebooks
 =======================
 
