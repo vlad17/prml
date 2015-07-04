@@ -10,7 +10,7 @@ Use the following command in the repo directory to launch IPython and get the in
 
 Remember to install the following packages:
 
-    numpy matplotlib scipy
+    numpy matplotlib scipy sympy
 
 Links to view notebooks
 =======================
